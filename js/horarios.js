@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const specialtyContainer = document.getElementById("specialty-container")
   const scheduleBody = document.getElementById("schedule-body")
 
+  // Arreglen esto plis yaaaa
   // Horarios para cada año y especialidad
   const scheduleData = {
     // Ciclo básico (1ro a 3ro)
